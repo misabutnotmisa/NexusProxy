@@ -6,7 +6,7 @@ EXPOSE 8080/tcp
 
 LABEL maintainer="TitaniumNetwork Ultraviolet Team"
 LABEL summary="Ultraviolet Proxy Image"
-LABEL description="Example application of Ultraviolet which can be deployed in production."
+LABEL description="Nothing."
 
 WORKDIR /app
 
